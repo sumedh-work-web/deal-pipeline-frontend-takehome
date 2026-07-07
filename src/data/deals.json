@@ -1,0 +1,884 @@
+[
+  {
+    "id": "deal-001",
+    "company": "Brightwater Utilities",
+    "contactName": "Susan Kelleher",
+    "contactTitle": "Procurement Manager",
+    "amount": 45000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-08-14",
+    "createdDate": "2026-05-27",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-29T16:10:00Z",
+      "note": "Walked through rollout timeline. She wants IT on the next call."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-002",
+    "company": "Redbud Schools Network",
+    "contactName": "Alicia Mendes",
+    "contactTitle": "Director of Curriculum",
+    "amount": 67000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-07-15",
+    "createdDate": "2026-04-21",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-07-03T18:30:00Z",
+      "note": "Board approved budget. Wants final pricing by Wednesday."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-003",
+    "company": "Gantry Construction Tech",
+    "contactName": "Tunde Okonkwo",
+    "contactTitle": "VP Field Operations",
+    "amount": 30000,
+    "currency": "USD",
+    "stage": "prospecting",
+    "createdDate": "2026-06-19",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-24T14:05:00Z",
+      "note": "Sent intro deck. Mid-quarter crunch on his side — said ping him in July."
+    },
+    "owner": "Jordan Ellis",
+    "source": "event"
+  },
+  {
+    "id": "deal-004",
+    "company": "Northwind Grocers",
+    "contactName": "Helen Vasquez",
+    "contactTitle": "Regional Manager",
+    "amount": 52000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-09-04",
+    "createdDate": "2026-06-02",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-07-01T15:45:00Z",
+      "note": "Good discovery. She's looping in category leads next week."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-005",
+    "company": "Copperfield & Mason LLP",
+    "contactName": "Grace Liu",
+    "contactTitle": "Managing Partner",
+    "amount": 24000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-07-28",
+    "createdDate": "2026-05-06",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-26T20:15:00Z",
+      "note": "Proposal sent. Partners meet the last week of July."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-006",
+    "company": "Halstead Manufacturing",
+    "contactName": "Doris Fenwick",
+    "contactTitle": "Plant Director",
+    "amount": 72000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-06-12",
+    "createdDate": "2026-02-10",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-25T13:20:00Z",
+      "note": "Asked for a two-week extension for legal review. No new date confirmed."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-007",
+    "company": "Steelhead Outfitters",
+    "contactName": "Cody Marsh",
+    "contactTitle": "Ecommerce Lead",
+    "amount": 12000,
+    "currency": "USD",
+    "stage": "prospecting",
+    "expectedCloseDate": "2026-08-28",
+    "createdDate": "2026-06-15",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-16T17:55:00Z",
+      "note": "Downloaded the pricing guide, replied asking about Shopify integration."
+    },
+    "owner": "Jordan Ellis",
+    "source": "website"
+  },
+  {
+    "id": "deal-008",
+    "company": "Sable Ridge Capital",
+    "contactName": "Evan Strauss",
+    "contactTitle": "Chief Operating Officer",
+    "amount": 120000,
+    "currency": "USD",
+    "stage": "negotiation",
+    "expectedCloseDate": "2026-07-31",
+    "createdDate": "2026-03-09",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-24T19:40:00Z",
+      "note": "Evan asked us to hold all outreach until their reorg settles. Revisit in the fall."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-009",
+    "company": "Harborline Logistics",
+    "contactName": "Marcus Webb",
+    "contactTitle": "Director of Operations",
+    "amount": 62000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-07-24",
+    "createdDate": "2026-04-02",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-30T15:00:00Z",
+      "note": "Sent proposal v2 with revised freight-lane pricing."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-010",
+    "company": "Orchard Lane Pharmacy",
+    "contactName": "Nina Shah",
+    "contactTitle": "Owner",
+    "amount": 9500,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-08-07",
+    "createdDate": "2026-06-08",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-27T16:30:00Z",
+      "note": "Wants to compare against her current vendor's renewal quote, due mid-July."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-011",
+    "company": "Tessellate Design Co",
+    "contactName": "Jules Baptiste",
+    "contactTitle": "Head of Studio Ops",
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-08-04",
+    "createdDate": "2026-05-14",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-06-30T17:00:00Z",
+      "note": "Scope still moving — 40 to 80 seats depending on the Berlin studio decision."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-012",
+    "company": "Verity Insurance Group",
+    "contactName": "Tom Abernathy",
+    "contactTitle": "VP Claims",
+    "amount": 98000,
+    "currency": "USD",
+    "stage": "negotiation",
+    "expectedCloseDate": "2026-07-10",
+    "createdDate": "2026-02-24",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-30T21:05:00Z",
+      "note": "Procurement reviewing the MSA. Tom expects signature this week."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-013",
+    "company": "Palomino Ranch Foods",
+    "contactName": "Rosa Gutierrez",
+    "contactTitle": "Supply Chain Director",
+    "amount": 41000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-08-21",
+    "createdDate": "2026-05-29",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-18T18:20:00Z",
+      "note": "Gone quiet since the pricing call."
+    },
+    "owner": "Jordan Ellis",
+    "source": "event"
+  },
+  {
+    "id": "deal-014",
+    "company": "Meridian Health Systems",
+    "contactName": "Dr. Alan Reyes",
+    "contactTitle": "VP Clinical Operations",
+    "amount": 480000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-04-30",
+    "createdDate": "2025-11-12",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-05-01T14:45:00Z",
+      "note": "Re-sent revised proposal after the pricing discussion. No response."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-015",
+    "company": "Motif Furniture",
+    "contactName": "Sofia Ricci",
+    "contactTitle": "Retail Ops Manager",
+    "amount": 27000,
+    "currency": "USD",
+    "stage": "prospecting",
+    "createdDate": "2026-06-22",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-23T15:35:00Z",
+      "note": "Reply to cold email: 'maybe next quarter, send info.'"
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-016",
+    "company": "Osprey Aerospace",
+    "contactName": "Linda Park",
+    "contactTitle": "Director of Training",
+    "amount": 150000,
+    "currency": "USD",
+    "stage": "closed_won",
+    "expectedCloseDate": "2026-06-20",
+    "createdDate": "2025-12-03",
+    "lastActivity": {
+      "type": "note",
+      "timestamp": "2026-06-20T22:10:00Z",
+      "note": "Signed. Kickoff scheduled for July 9."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-017",
+    "company": "Lakeshore Property Group",
+    "contactName": "Bernard Osei",
+    "contactTitle": "Leasing Director",
+    "amount": 33000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-09-18",
+    "createdDate": "2026-06-10",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-07-02T14:00:00Z",
+      "note": "Toured their leasing workflow. Sending recap and a case study."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-018",
+    "company": "Nimbus Weather Systems",
+    "contactName": "Kayla Brandt",
+    "contactTitle": "Operations Manager",
+    "amount": 19000,
+    "currency": "USD",
+    "stage": "prospecting",
+    "createdDate": "2026-06-04",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-11T16:50:00Z",
+      "note": "Intro call. Small team, tight budget — starter tier only."
+    },
+    "owner": "Jordan Ellis",
+    "source": "website"
+  },
+  {
+    "id": "deal-019",
+    "company": "Ironvale Mining Supply",
+    "contactName": "Gus Tarrant",
+    "contactTitle": "Procurement Lead",
+    "amount": 88000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-10-02",
+    "createdDate": "2026-05-20",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-20T13:15:00Z",
+      "note": "Budget freeze until their fiscal year turns over in August."
+    },
+    "owner": "Jordan Ellis",
+    "source": "event"
+  },
+  {
+    "id": "deal-020",
+    "company": "Violetta Fashion House",
+    "contactName": "Chiara Bellini",
+    "contactTitle": "Commercial Director",
+    "amount": 95000,
+    "currency": "EUR",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-07-21",
+    "createdDate": "2026-04-15",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-07-01T09:30:00Z",
+      "note": "Milan team aligned. Awaiting their counter on payment terms."
+    },
+    "owner": "Jordan Ellis",
+    "source": "partner"
+  },
+  {
+    "id": "deal-021",
+    "company": "Quill & Page Publishing",
+    "contactName": "Meredith Sloane",
+    "contactTitle": "Editorial Director",
+    "amount": 16000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-08-11",
+    "createdDate": "2026-05-22",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-25T18:40:00Z",
+      "note": "Proposal sent. She's OOO until July 13."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-022",
+    "company": "Pinebrook Credit Union",
+    "contactName": "Hal Bishop",
+    "contactTitle": "Branch Operations Manager",
+    "amount": 38000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-05-29",
+    "createdDate": "2026-03-17",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-05-20T17:25:00Z",
+      "note": "Left voicemail."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-023",
+    "company": "Solara Energy",
+    "contactName": "Wanjiru Kamau",
+    "contactTitle": "Director of Field Services",
+    "amount": 132000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-08-28",
+    "createdDate": "2026-04-08",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-06-29T19:00:00Z",
+      "note": "Technical deep-dive went well. Their security questionnaire is due back July 10."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-024",
+    "company": "Crestline Auto Group",
+    "contactName": "Vince Palladino",
+    "contactTitle": "General Manager",
+    "amount": 58000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-08-14",
+    "createdDate": "2026-05-31",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-19T20:35:00Z",
+      "note": "Interested, but wants dealer-principal sign-off. Call set for July 8."
+    },
+    "owner": "Jordan Ellis",
+    "source": "event"
+  },
+  {
+    "id": "deal-025",
+    "company": "Cormorant Shipping",
+    "amount": 47000,
+    "currency": "USD",
+    "stage": "prospecting",
+    "expectedCloseDate": "2026-09-25",
+    "createdDate": "2026-06-17",
+    "lastActivity": {
+      "type": "note",
+      "timestamp": "2026-06-17T23:10:00Z",
+      "note": "Badge scan from the Long Beach expo booth. No direct contact yet."
+    },
+    "owner": "Jordan Ellis",
+    "source": "event"
+  },
+  {
+    "id": "deal-026",
+    "company": "Fernwood Senior Living",
+    "contactName": "Agnes Boateng",
+    "contactTitle": "Executive Director",
+    "amount": 76000,
+    "currency": "USD",
+    "stage": "negotiation",
+    "expectedCloseDate": "2026-07-09",
+    "createdDate": "2026-03-25",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-23T14:55:00Z",
+      "note": "Contract is with their counsel. 'Any day now.'"
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-027",
+    "company": "Cobalt Labs",
+    "contactName": "Farah Haddad",
+    "contactTitle": "Lab Operations Manager",
+    "amount": 22000,
+    "currency": "USD",
+    "stage": "prospecting",
+    "createdDate": "2026-06-26",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-26T18:05:00Z",
+      "note": "Discovery call booked for July 8."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-028",
+    "company": "Bower & Blum Realty",
+    "contactName": "Stan Blum",
+    "contactTitle": "Partner",
+    "amount": 14000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-08-19",
+    "createdDate": "2026-06-05",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-30T16:45:00Z",
+      "note": "Asked for references from other brokerages."
+    },
+    "owner": "Jordan Ellis",
+    "source": "website"
+  },
+  {
+    "id": "deal-029",
+    "company": "Marlowe Media Group",
+    "contactName": "Dana Whitfield",
+    "contactTitle": "VP Ad Operations",
+    "amount": 85000,
+    "currency": "USD",
+    "stage": "closed_lost",
+    "expectedCloseDate": "2026-06-05",
+    "createdDate": "2026-01-20",
+    "lastActivity": {
+      "type": "note",
+      "timestamp": "2026-06-05T20:20:00Z",
+      "note": "Lost to Composure. Security review stalled us for six weeks."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-030",
+    "company": "Whitmore & Finch Accounting",
+    "contactName": "Colin Whitmore",
+    "contactTitle": "Partner",
+    "amount": 20000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-07-30",
+    "createdDate": "2026-05-12",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-27T15:10:00Z",
+      "note": "Proposal sent. He'll review after quarter-end filings."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-031",
+    "company": "Cinderhill Brewing",
+    "contactName": "Maya Okafor",
+    "contactTitle": "Head of Operations",
+    "amount": 14500,
+    "currency": "USD",
+    "stage": "negotiation",
+    "expectedCloseDate": "2026-07-07",
+    "createdDate": "2026-05-18",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-07-02T16:00:00Z",
+      "note": "Walked through the order form. Verbal yes — wants it signed before their fiscal close Wednesday."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-032",
+    "company": "Tidewater Marine",
+    "contactName": "Joe Castellano",
+    "contactTitle": "Service Manager",
+    "amount": 36000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-09-11",
+    "createdDate": "2026-06-01",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-25T17:35:00Z",
+      "note": "Second discovery. Needs sign-off from the owner, who's back July 20."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-033",
+    "company": "Larkspur Biotech",
+    "contactName": "Dr. Ingrid Solberg",
+    "contactTitle": "Director of Research Ops",
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-09-30",
+    "createdDate": "2026-06-09",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-07-01T18:15:00Z",
+      "note": "Scoping workshop. Seat count depends on their Series C headcount plan."
+    },
+    "owner": "Jordan Ellis",
+    "source": "event"
+  },
+  {
+    "id": "deal-034",
+    "company": "Hearthside Bakery Supply",
+    "contactName": "Renata Fischer",
+    "contactTitle": "Purchasing Manager",
+    "amount": 11000,
+    "currency": "USD",
+    "stage": "prospecting",
+    "expectedCloseDate": "2026-08-26",
+    "createdDate": "2026-06-13",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-21T14:30:00Z",
+      "note": "Opened the deck twice, no reply."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-035",
+    "company": "Juniper Robotics",
+    "contactName": "Tara Nguyen",
+    "contactTitle": "Procurement Analyst",
+    "amount": 95000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-07-17",
+    "createdDate": "2026-03-30",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-26T21:00:00Z",
+      "note": "Note from Tara: our champion Dev Patel left the company Friday. Backfill unknown."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-036",
+    "company": "Pemberton Rail Services",
+    "contactName": "Nigel Ashworth",
+    "contactTitle": "Head of Maintenance Planning",
+    "amount": 145000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-10-16",
+    "createdDate": "2026-05-08",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-24T11:20:00Z",
+      "note": "Long procurement cycle. RFP expected in September."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-037",
+    "company": "Harborline Logistics",
+    "contactName": "Priya Natarajan",
+    "contactTitle": "VP Operations",
+    "amount": 65000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-08-15",
+    "createdDate": "2026-05-11",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-27T15:50:00Z",
+      "note": "Intro call. Evaluating options for a Q3 rollout across their Gulf routes."
+    },
+    "owner": "Jordan Ellis",
+    "source": "event"
+  },
+  {
+    "id": "deal-038",
+    "company": "Foxglove Beauty",
+    "contactName": "Camille Duarte",
+    "contactTitle": "DTC Growth Lead",
+    "amount": 26000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-08-06",
+    "createdDate": "2026-05-19",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-07-01T19:25:00Z",
+      "note": "Asked whether onboarding can finish before their August campaign."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-039",
+    "company": "Kestrel Financial",
+    "contactName": "Elaine Cho",
+    "contactTitle": "Head of Advisory Services",
+    "amount": 210000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-09-15",
+    "createdDate": "2026-06-03",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-07-02T20:45:00Z",
+      "note": "Their CFO joined unexpectedly and asked for the security package by end of this week."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-040",
+    "company": "Calloway Hotels",
+    "contactName": "Dmitri Volkov",
+    "contactTitle": "Director of Guest Experience",
+    "amount": 64000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-08-20",
+    "createdDate": "2026-04-27",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-06-20T16:20:00Z",
+      "note": "Pilot at the Austin property wraps July 15. Decision follows."
+    },
+    "owner": "Jordan Ellis",
+    "source": "partner"
+  },
+  {
+    "id": "deal-041",
+    "company": "Sundial Coffee Roasters",
+    "contactName": "Leah Timmons",
+    "contactTitle": "Wholesale Manager",
+    "amount": 8000,
+    "currency": "USD",
+    "stage": "prospecting",
+    "createdDate": "2026-06-28",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-29T13:40:00Z",
+      "note": "Replied to cold email asking about pricing. Sent the starter-tier one-pager."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-042",
+    "company": "Vantage Point Security",
+    "contactName": "Omar Khoury",
+    "contactTitle": "Chief of Staff",
+    "amount": 108000,
+    "currency": "USD",
+    "stage": "negotiation",
+    "expectedCloseDate": "2026-08-01",
+    "createdDate": "2026-02-16",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-28T22:30:00Z",
+      "note": "Redlines on the liability cap are back with our legal."
+    },
+    "owner": "Jordan Ellis",
+    "source": "outbound"
+  },
+  {
+    "id": "deal-043",
+    "company": "Riverstone Dental Partners",
+    "contactName": "Dr. Emily Watts",
+    "contactTitle": "Practice Director",
+    "amount": 31000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-08-27",
+    "createdDate": "2026-06-06",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-30T18:55:00Z",
+      "note": "Wants a demo for the office managers across all six practices."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-044",
+    "company": "Atlas Freight Co",
+    "contactName": "Hank Morrow",
+    "contactTitle": "VP Logistics",
+    "amount": 54000,
+    "currency": "USD",
+    "stage": "negotiation",
+    "expectedCloseDate": "2026-07-03",
+    "createdDate": "2026-03-13",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-07-02T21:15:00Z",
+      "note": "Redlines nearly done. Their counsel is out until Monday — expect signature early this week."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-045",
+    "company": "Kite & Compass Travel",
+    "contactName": "Simone Laurent",
+    "contactTitle": "Founder",
+    "currency": "USD",
+    "stage": "prospecting",
+    "createdDate": "2026-07-02",
+    "owner": "Jordan Ellis",
+    "source": "website"
+  },
+  {
+    "id": "deal-046",
+    "company": "Beacon Signworks",
+    "contactName": "Ruth Delacroix",
+    "contactTitle": "Operations Coordinator",
+    "amount": 13000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-09-03",
+    "createdDate": "2026-06-11",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-26T17:05:00Z",
+      "note": "Comparing us against doing it in-house with spreadsheets."
+    },
+    "owner": "Jordan Ellis",
+    "source": "website"
+  },
+  {
+    "id": "deal-047",
+    "company": "Marigold Event Co",
+    "contactName": "Tessa Bright",
+    "contactTitle": "Managing Director",
+    "amount": 21000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-07-25",
+    "createdDate": "2026-05-26",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-24T16:40:00Z",
+      "note": "Reviewed the proposal. Wants a 10% multi-year discount to take to her partner."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-048",
+    "company": "Drummond & Sons Hardware",
+    "contactName": "Angus Drummond",
+    "contactTitle": "Owner",
+    "currency": "USD",
+    "stage": "prospecting",
+    "createdDate": "2026-06-30",
+    "lastActivity": {
+      "type": "call",
+      "timestamp": "2026-06-30T19:50:00Z",
+      "note": "Referral from Maya at Cinderhill. Wants a call sometime after the 4th."
+    },
+    "owner": "Jordan Ellis",
+    "source": "referral"
+  },
+  {
+    "id": "deal-049",
+    "company": "Aurora Veterinary Group",
+    "contactName": "Dr. Sanjay Mehta",
+    "contactTitle": "Regional Director",
+    "amount": 44000,
+    "currency": "USD",
+    "stage": "qualification",
+    "expectedCloseDate": "2026-08-31",
+    "createdDate": "2026-05-30",
+    "lastActivity": {
+      "type": "meeting",
+      "timestamp": "2026-06-18T15:25:00Z",
+      "note": "Group demo done. Their ops committee meets the first Monday of each month."
+    },
+    "owner": "Jordan Ellis",
+    "source": "inbound"
+  },
+  {
+    "id": "deal-050",
+    "company": "Halewood Spirits",
+    "contactName": "Fiona Gallagher",
+    "contactTitle": "National Accounts Manager",
+    "amount": 39000,
+    "currency": "USD",
+    "stage": "proposal",
+    "expectedCloseDate": "2026-07-31",
+    "createdDate": "2026-04-30",
+    "lastActivity": {
+      "type": "email",
+      "timestamp": "2026-06-13T14:10:00Z",
+      "note": "Quiet since we sent pricing. Two follow-ups, no reply."
+    },
+    "owner": "Jordan Ellis",
+    "source": "event"
+  }
+]
