@@ -35,5 +35,4 @@ When you're done, answer the prompts in [`NOTES.md`](NOTES.md). They're short, a
 - Stack is locked: Vite + React + TypeScript. Design is free — plain CSS, a UI library, whatever you'd actually reach for.
 - Clean and working beats ambitious and half-done.
 - No requirement for tests, routing, or any particular pattern. What you invest your time in is part of the signal.
-- AI tools are allowed and expected. You own every line you submit and should be able to defend any of it in a conversation afterward.
-- Time budget: 2–3 hours. Stop there.
+- AI tools are allowed but you should own every line you submit.
